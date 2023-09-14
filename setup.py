@@ -5,7 +5,7 @@ setup(
     version='0.1',
     packages=['CSVToListDict'],
     url='https://github.com/amcsparron2793-Water/CSVToListDict',
-    download_url='',
+    download_url='https://github.com/amcsparron2793-Water/CSVToListDict/archive/refs/tags/0.1.tar.gz',
     keywords=["csv", "converter"],
     license='MIT License',
     author='Amcsparron',
